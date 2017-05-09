@@ -1,0 +1,29 @@
+1. Download Tiled from http://www.mapeditor.org/download.html
+
+2. Open Tiled
+
+3. Choose File > New in the top left hand corner
+
+4. Choose Orthoganal for Orientation, Base 64 (zlib compressed) for Tile Layer Format
+   and Right Down for Tile render order.
+
+5. Map size is what you choose, width and height of tile size are both 32 px
+
+6. In the bottom right under tileset click on the new tileset button, looks like
+   a blank piece of paper with a star over it.
+
+7. Name can be left blank, Type is Based on Tileset Image
+
+8. Source should be the tiles.png in this folder, tile width and height are both 32px,
+   margin and spacing are both 1 px.
+
+9. Create Map
+
+10. Export map as flare file (.txt) save as map.txt in "add maps here" folder.
+
+11. Open up the package.bluJ and right click startMenu and choose the void main string[] args
+
+
+TIPS:
+
+Roy spawns in the top left area so I would recommend leaving that area made up of transparent blocks.

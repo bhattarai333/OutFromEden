@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ init()
+comment1.params=in
+comment1.target=java.awt.image.BufferedImage\ getImg(int)
+comment2.params=ID
+comment2.target=void\ getInfo(int)
+numComments=3

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=arr\ tm
+comment0.target=void\ init(java.util.ArrayList,\ TileMap)
+comment1.params=image
+comment1.target=void\ setImg(java.awt.image.BufferedImage)
+comment2.params=g
+comment2.target=void\ draw(java.awt.Graphics)
+comment3.params=u\ d\ l\ r\ s
+comment3.target=void\ update(boolean,\ boolean,\ boolean,\ boolean,\ boolean)
+comment4.params=
+comment4.target=void\ checkEnd()
+comment5.params=
+comment5.target=void\ scroll()
+comment6.params=
+comment6.target=void\ checkBounds()
+comment7.params=
+comment7.target=void\ move()
+comment8.params=
+comment8.target=void\ changeImg()
+numComments=9
